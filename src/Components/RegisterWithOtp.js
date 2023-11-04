@@ -183,7 +183,7 @@ const RegisterWithOtp = () => {
             Verify
           </button>
           <p>
-            Didn't received code? <a href="http://localhost:3000/">Resend</a>
+            Didn't received code? <a href="https://sumant-fastor-assignment.netlify.app/">Resend</a>
           </p>
         </div>
       </div>
